@@ -1,0 +1,999 @@
+id,position,experience,e_none,e_sma,e_smu/smk/stm,e_sp,e_d3,e_d4,e_s1,e_dp,e_gp,e_s2,e_s3,gig1,gig2,industry,salary
+9634,Manajer/Asisten Manajer,5,0,1,1,1,1,1,1,0,0,0,0,Praktisi/Asisten Medis,Layanan Kesehatan,Makanan & Minuman/Katering/Restoran,14000000.0
+24082,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Pertambangan,5500000.0
+30954,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,13225000.0
+31329,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Konstruksi/Bangunan/Teknik,4500000.0
+1200,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Asuransi,19000000.0
+15156,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Periklanan/Marketing/Promosi/Hubungan Masyarakat,4200000.0
+30994,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Manajemen/Konsulting HR,10350000.0
+28873,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,1,1,1,0,Audit & Pajak,Akuntansi / Keuangan,,19200000.0
+19029,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Manufaktur/Produksi,4600000.0
+21398,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,2400000.0
+25821,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Perbankan/Pelayanan Keuangan,3000000.0
+30464,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Manufaktur/Produksi,3750000.0
+17118,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Komputer/Teknik Informatika (Perangkat Lunak),12000000.0
+4529,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,3600000.0
+5681,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),6500000.0
+18141,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Bahan Kimia/Pupuk/Pestisida,10000000.0
+11259,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,3105000.0
+16901,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Komputer/Teknik Informatika (Perangkat Lunak),2850000.0
+8176,Manajer/Asisten Manajer,1,1,0,0,0,0,0,0,0,0,0,0,Farmasi,Layanan Kesehatan,Umum & Grosir,3000000.0
+6920,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",6600000.0
+23333,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,1,1,1,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,7150000.0
+19272,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Keras),8000000.0
+30060,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Umum & Grosir,8400000.0
+28558,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Umum & Grosir,4370000.0
+18663,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Kesehatan/Medis,3600000.0
+28312,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,3250000.0
+19594,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,5000000.0
+14241,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Lingkungan/Kesehatan/Keamanan,4320000.0
+27329,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Umum & Grosir,3600000.0
+9324,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,4100000.0
+2578,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2880000.0
+3694,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Retail/Merchandise,5350000.0
+24293,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,4550000.0
+23163,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Kesehatan/Medis,1150000.0
+12033,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Kesehatan/Medis,3250000.0
+9295,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,4350000.0
+4327,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,1200000.0
+12280,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Minyak/Gas/Petroleum,15000000.0
+30784,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Konsultasi (Bisnis & Manajemen),5000000.0
+10920,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",10000000.0
+15619,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Konsultasi (Bisnis & Manajemen),6500000.0
+15158,Supervisor/Koordinator,2,0,0,0,1,1,1,1,1,1,1,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",8500000.0
+5961,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,4500000.0
+27138,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Manufaktur,Manufaktur,Perawatan/Kecantikan/Fitnes,15000000.0
+17914,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Lainnya,3500000.0
+13949,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,1,1,1,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Hiburan/Media,5000000.0
+4473,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Hiburan/Media,3575000.0
+24092,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manufaktur/Produksi,6000000.0
+28675,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Kesehatan/Medis,5150000.0
+25894,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,6000000.0
+2406,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Manufaktur/Produksi,3900000.0
+13855,Supervisor/Koordinator,1,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),7000000.0
+12581,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Seni/Desain/Fashion,4075000.0
+14653,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Lainnya,3250000.0
+12462,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Retail/Merchandise,4000000.0
+25862,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Teknik Elektro,Teknik,Manufaktur/Produksi,2750000.0
+21848,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,1,1,1,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manajemen/Konsulting HR,5500000.0
+14242,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,3750000.0
+12812,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Industri Berat/Mesin/Peralatan,6000000.0
+2583,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Teknologi Makanan/Ahli Gizi,Sains,Produk Konsumen/Barang konsumen yang bergerak cepat,4800000.0
+7839,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),13500000.0
+12585,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,1,1,1,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manajemen/Konsulting HR,7000000.0
+15005,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Hiburan/Media,2500000.0
+30645,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,2,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,4250000.0
+5092,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Retail/Merchandise,2160000.0
+2620,Supervisor/Koordinator,3,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,10680000.0
+11534,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Agrikultural/Perkebunan/Peternakan Unggas/Perikanan,6000000.0
+442,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,6500000.0
+22013,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Manufaktur/Produksi,8400000.0
+17418,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Kesehatan/Medis,2250000.0
+6070,Manajer/Asisten Manajer,10,0,0,0,0,0,0,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Retail/Merchandise,12500000.0
+20198,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Transportasi/Logistik,5500000.0
+28826,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Pelayanan Arsitek/Desain Interior,4800000.0
+3943,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4150000.0
+21747,Supervisor/Koordinator,1,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,3975000.0
+12470,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Kesehatan/Medis,5750000.0
+30486,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Elektrikal & Elektronik,12500000.0
+21649,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,3500000.0
+10921,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,1,1,1,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Kesehatan/Medis,13800000.0
+6879,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Transportasi/Logistik,6500000.0
+14296,Supervisor/Koordinator,,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Lainnya,3000000.0
+12008,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,5250000.0
+12413,Supervisor/Koordinator,3,0,0,0,0,0,0,1,1,1,1,0,Teknik Lingkungan,Teknik,Tekstil/Garment,6000000.0
+11546,Supervisor/Koordinator,2,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,5160000.0
+19704,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Minyak/Gas/Petroleum,4500000.0
+29276,Manajer/Asisten Manajer,10,1,0,0,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Retail/Merchandise,19200000.0
+14172,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4800000.0
+26782,Supervisor/Koordinator,3,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,6000000.0
+8544,Supervisor/Koordinator,3,0,0,0,1,1,1,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Manufaktur/Produksi,5000000.0
+26924,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Kesehatan/Medis,10500000.0
+25002,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,1,0,0,0,0,Teknik Elektro,Teknik,Elektrikal & Elektronik,4725000.0
+11636,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Perbankan/Pelayanan Keuangan,5760000.0
+11232,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Retail/Merchandise,8400000.0
+20323,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Retail/Merchandise,6000000.0
+20862,Supervisor/Koordinator,3,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,5500000.0
+11013,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),4250000.0
+4505,Supervisor/Koordinator,4,1,0,0,0,0,0,0,0,0,0,0,Teknik Elektro,Teknik,Manufaktur/Produksi,7000000.0
+23757,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,12000000.0
+22645,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Telekomunikasi,6750000.0
+22058,Manajer/Asisten Manajer,8,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manufaktur/Produksi,9000000.0
+15138,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5750000.0
+4833,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Telekomunikasi,5050000.0
+13878,Pegawai (non-manajemen & non-supervisor),,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,3900000.0
+27458,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,5050000.0
+10105,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Teknik Elektro,Teknik,Manajemen/Konsulting HR,8000000.0
+29148,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Manufaktur/Produksi,6250000.0
+23907,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Komputer/Teknik Informatika (Perangkat Lunak),4000000.0
+17244,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",6750000.0
+17959,Manajer/Asisten Manajer,2,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,5400000.0
+1526,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,,2400000.0
+26250,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Seni/Desain/Fashion,6000000.0
+6292,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Pertambangan,5500000.0
+13515,Supervisor/Koordinator,3,1,0,0,0,0,0,0,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Properti/Real Estate,4000000.0
+24966,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Umum & Grosir,4600000.0
+2005,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Manufaktur/Produksi,5500000.0
+10034,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Bahan Kimia/Pupuk/Pestisida,3217850.0
+21271,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Kesehatan/Medis,5500000.0
+2557,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,0,0,0,0,0,1,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Lainnya,2400000.0
+1462,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",7500000.0
+16407,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Perawatan/Kecantikan/Fitnes,7000000.0
+25065,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4100000.0
+1615,Pegawai (non-manajemen & non-supervisor),5,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",8000000.0
+20854,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Perawatan Pribadi,Pelayanan,Perawatan/Kecantikan/Fitnes,900000.0
+13191,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,6000000.0
+6984,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2875000.0
+1324,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Diagnosa/Lainnya,Layanan Kesehatan,Asuransi,6750000.0
+20598,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Produk Konsumen/Barang konsumen yang bergerak cepat,18000000.0
+2731,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,3857000.0
+15130,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Praktisi/Asisten Medis,Layanan Kesehatan,Kesehatan/Medis,3600000.0
+23740,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,E-commerce,Penjualan / Pemasaran,Lainnya,2750000.0
+8808,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,10500000.0
+17810,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Kesehatan/Medis,9500000.0
+4213,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,6000000.0
+3392,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Merchandising,Penjualan / Pemasaran,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",6000000.0
+10948,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Retail/Merchandise,4200000.0
+30842,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Digital Marketing,Penjualan / Pemasaran,Pameran/Manajemen acara/PIKP,7500000.0
+26403,Manajer/Asisten Manajer,3,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,12000000.0
+11662,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Lainnya,6000000.0
+18755,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),12500000.0
+10437,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),2650000.0
+17557,CEO/GM/Direktur/Manajer Senior,5,0,0,0,0,0,0,1,1,1,1,0,Penjualan Ritel,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,10000000.0
+13392,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5500000.0
+4926,Manajer/Asisten Manajer,2,0,0,0,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Manajemen/Konsulting HR,9000000.0
+26090,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Properti/Real Estate,12000000.0
+403,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,1,1,1,0,Audit & Pajak,Akuntansi / Keuangan,Akunting / Audit / Layanan Pajak,12000000.0
+18503,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Komputer/Teknik Informatika (Perangkat Lunak),6500000.0
+967,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,E-commerce,Penjualan / Pemasaran,Retail/Merchandise,4500000.0
+13565,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Kesehatan/Medis,4200000.0
+1475,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,3400000.0
+28442,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Manajemen/Konsulting HR,14400000.0
+15480,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Retail/Merchandise,9500000.0
+21546,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,4500000.0
+25500,Pegawai (non-manajemen & non-supervisor),12,0,0,0,0,0,0,1,1,1,1,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,3600000.0
+8284,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5500000.0
+1433,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Manufaktur,Manufaktur,Retail/Merchandise,7500000.0
+14527,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),13500000.0
+13141,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),6000000.0
+23601,Pegawai (non-manajemen & non-supervisor),,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),6600000.0
+7430,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Retail/Merchandise,7000000.0
+12680,Supervisor/Koordinator,2,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,,5000000.0
+5871,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,5350000.0
+6790,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Periklanan/Marketing/Promosi/Hubungan Masyarakat,7750000.0
+14814,Supervisor/Koordinator,2,0,1,1,1,1,1,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,4800000.0
+8795,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Konstruksi/Bangunan/Teknik,6500000.0
+8252,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Umum & Grosir,6500000.0
+14680,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,1,1,1,0,Mekanikal,Teknik,Umum & Grosir,6720000.0
+30169,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Konsultasi (Bisnis & Manajemen),6000000.0
+191,Manajer/Asisten Manajer,4,0,0,0,0,0,0,1,0,0,0,0,Aktuaria/Statistik,Sains,Perbankan/Pelayanan Keuangan,9600000.0
+29582,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,4250000.0
+6113,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Kesehatan/Medis,5750000.0
+11882,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Konstruksi/Bangunan/Teknik,4500000.0
+170,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Umum & Grosir,6500000.0
+29932,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,6000000.0
+14939,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,,3500000.0
+28661,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Percetakan/Penerbitan,6500000.0
+12034,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,18000000.0
+17082,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Tekstil/Garment,3800000.0
+2472,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,1900000.0
+23113,Manajer/Asisten Manajer,3,0,0,0,0,0,0,0,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Transportasi/Logistik,6500000.0
+8251,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Akunting / Audit / Layanan Pajak,7200000.0
+24283,Manajer/Asisten Manajer,5,0,0,0,1,1,1,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Manufaktur/Produksi,13750000.0
+13752,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Industri Berat/Mesin/Peralatan,9200000.0
+26623,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,1,1,1,0,Penjualan Ritel,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,4700000.0
+20886,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Farmasi,Layanan Kesehatan,Manufaktur/Produksi,5750000.0
+18752,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Periklanan/Marketing/Promosi/Hubungan Masyarakat,3000000.0
+24396,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,3750000.0
+23236,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Retail/Merchandise,7000000.0
+7008,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,1650000.0
+5596,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Manufaktur,Manufaktur,Manufaktur/Produksi,5500000.0
+23540,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,6000000.0
+3363,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,3000000.0
+18033,Manajer/Asisten Manajer,1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Teknik/Teknikal/IT,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Keras),12000000.0
+13108,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4000000.0
+1930,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Properti/Real Estate,4000000.0
+20672,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Pendidikan,3250000.0
+9811,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,2,0,0,0,1,1,1,0,0,0,0,0,Manufaktur,Manufaktur,Manufaktur/Produksi,4250000.0
+22401,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Minyak/Gas/Petroleum,4500000.0
+24202,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Komputer/Teknik Informatika (Perangkat Keras),5000000.0
+815,Pegawai (non-manajemen & non-supervisor),7,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5400000.0
+17547,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4500000.0
+14963,Pegawai (non-manajemen & non-supervisor),5,0,1,1,0,0,0,0,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Pertambangan,4200000.0
+2016,Supervisor/Koordinator,1,0,1,1,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Makanan & Minuman/Katering/Restoran,5250000.0
+10237,Manajer/Asisten Manajer,2,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,16500000.0
+26527,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Keras),15000000.0
+13865,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Retail/Merchandise,3250000.0
+7348,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5500000.0
+11231,Supervisor/Koordinator,4,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,6500000.0
+13782,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Transportasi/Logistik,4671250.0
+178,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,0,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Umum & Grosir,4250000.0
+31383,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Percetakan/Penerbitan,3750000.0
+30826,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",4800000.0
+28033,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,6000000.0
+28269,Manajer/Asisten Manajer,1,1,0,0,0,0,0,0,0,0,0,0,Properti/Real Estate,Bangunan/Konstruksi,Properti/Real Estate,5900000.0
+13598,Supervisor/Koordinator,3,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Manajemen/Konsulting HR,10000000.0
+8151,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,12000000.0
+31408,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Manajemen/Konsulting HR,15000000.0
+9272,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,3500000.0
+25706,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Perbankan/Pelayanan Keuangan,2850000.0
+14921,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Industri Berat/Mesin/Peralatan,6000000.0
+27862,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Manufaktur/Produksi,3773340.0
+8054,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Manajemen/Konsulting HR,17250000.0
+15326,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Pengacara / Asisten Legal,Pelayanan,Perbankan/Pelayanan Keuangan,2500000.0
+25939,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Lainnya,8000000.0
+14582,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Lainnya,7500000.0
+3992,Pegawai (non-manajemen & non-supervisor),5,0,0,0,0,0,0,1,1,1,1,0,Penjualan Ritel,Penjualan / Pemasaran,Konsultasi (Bisnis & Manajemen),5520000.0
+12723,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Pemeliharaan,Manufaktur,Manajemen/Konsulting HR,9600000.0
+12090,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Perbankan/Pelayanan Keuangan,1500000.0
+9567,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,8500000.0
+14259,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Properti/Real Estate,2250000.0
+31114,Supervisor/Koordinator,4,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,8250000.0
+18420,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,1,0,0,0,0,Properti/Real Estate,Bangunan/Konstruksi,Properti/Real Estate,4800000.0
+28608,Manajer/Asisten Manajer,5,0,0,0,1,1,1,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Manufaktur/Produksi,13750000.0
+28960,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Lainnya,5000000.0
+25842,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5500000.0
+20356,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Transportasi/Logistik,8400000.0
+25634,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Diagnosa/Lainnya,Layanan Kesehatan,Kesehatan/Medis,10800000.0
+6408,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,,3000000.0
+31439,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Komputer/Teknik Informatika (Perangkat Lunak),6000000.0
+4185,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Manufaktur,Manufaktur,Makanan & Minuman/Katering/Restoran,4000000.0
+56,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,,2000000.0
+18006,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,1,1,1,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,6500000.0
+15978,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),5750000.0
+30973,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,,21600000.0
+6972,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",6750000.0
+6200,Supervisor/Koordinator,2,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Makanan & Minuman/Katering/Restoran,7000000.0
+10478,Manajer/Asisten Manajer,1,0,0,0,1,1,1,1,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Lainnya,4100000.0
+4938,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,1,1,1,1,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Perbankan/Pelayanan Keuangan,3750000.0
+27839,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,1,1,1,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Elektrikal & Elektronik,11000000.0
+9058,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Elektrikal & Elektronik,3550000.0
+7482,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Kesehatan/Medis,5750000.0
+13691,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Properti/Real Estate,3750000.0
+19616,Supervisor/Koordinator,1,1,0,0,0,0,0,0,0,0,0,0,E-commerce,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Keras),6500000.0
+29646,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Makanan & Minuman/Katering/Restoran,12000000.0
+22531,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manufaktur/Produksi,3650000.0
+21641,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Retail/Merchandise,11000000.0
+23794,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,4100000.0
+18132,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Seni/Desain/Fashion,3000000.0
+17367,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),750000.0
+1566,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perawatan/Kecantikan/Fitnes,13000000.0
+14042,Supervisor/Koordinator,3,0,0,0,0,0,0,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),15000000.0
+123,Manajer/Asisten Manajer,3,0,0,0,1,1,1,1,1,1,1,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manajemen/Konsulting HR,16000000.0
+26350,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Retail/Merchandise,4400000.0
+8431,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Perbankan/Pelayanan Keuangan,4138000.0
+1387,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Industri Berat/Mesin/Peralatan,4000000.0
+12430,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,2750000.0
+570,CEO/GM/Direktur/Manajer Senior,2,0,0,0,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Periklanan/Marketing/Promosi/Hubungan Masyarakat,10800000.0
+20816,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,1,1,1,0,Telesales/Telemarketing,Penjualan / Pemasaran,Konsultasi (Bisnis & Manajemen),4750000.0
+2945,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Kesehatan/Medis,6250000.0
+2913,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,5000000.0
+27589,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Manufaktur/Produksi,6500000.0
+26052,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,4000000.0
+12371,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Mekanikal,Teknik,Automobil/Mesin Tambahan Automotif/Kendaraan,12500000.0
+10522,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,6250000.0
+20577,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Makanan & Minuman/Katering/Restoran,4250000.0
+3962,Manajer/Asisten Manajer,10,0,0,0,1,1,1,1,1,1,1,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manufaktur/Produksi,12500000.0
+20939,CEO/GM/Direktur/Manajer Senior,3,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,11250000.0
+3958,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Manajemen/Konsulting HR,6500000.0
+667,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Retail/Merchandise,3050000.0
+22723,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Automobil/Mesin Tambahan Automotif/Kendaraan,4929500.0
+4046,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Penjualan - Teknik/Teknikal/IT,Penjualan / Pemasaran,Industri Berat/Mesin/Peralatan,12000000.0
+1351,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,4000000.0
+29593,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2875000.0
+6332,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),4125000.0
+25483,Manajer/Asisten Manajer,2,0,0,0,1,1,1,1,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Perbankan/Pelayanan Keuangan,7500000.0
+6280,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Teknik/Teknikal/IT,Penjualan / Pemasaran,Elektrikal & Elektronik,10200000.0
+13902,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Properti/Real Estate,5000000.0
+12692,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,1,0,0,0,0,0,0,0,0,0,0,Farmasi,Layanan Kesehatan,Lainnya,3250000.0
+2272,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Pelayanan Arsitek/Desain Interior,5500000.0
+21474,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,0,0,0,0,0,1,0,0,0,0,Teknik Elektro,Teknik,Elektrikal & Elektronik,5400000.0
+17498,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Umum & Grosir,5750000.0
+20260,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Retail/Merchandise,5400000.0
+23881,Manajer/Asisten Manajer,1,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Manufaktur/Produksi,6750000.0
+1600,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manajemen/Konsulting HR,7750000.0
+11006,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Pelayanan Perbaikan & Pemeliharaan,3900000.0
+27357,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Umum & Grosir,2400000.0
+10700,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Komputer/Teknik Informatika (Perangkat Lunak),6000000.0
+26606,Manajer/Asisten Manajer,3,1,0,0,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Manufaktur/Produksi,9000000.0
+9008,Manajer/Asisten Manajer,2,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Transportasi/Logistik,7000000.0
+10781,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Hiburan/Media,7750000.0
+22257,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,,5240000.0
+25627,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Konsultasi (Bisnis & Manajemen),9500000.0
+27090,Supervisor/Koordinator,2,0,0,0,0,0,0,1,1,1,1,0,Audit & Pajak,Akuntansi / Keuangan,Konstruksi/Bangunan/Teknik,9500000.0
+30569,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Retail/Merchandise,4500000.0
+11107,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Kayu/Fiber/Kertas,2250000.0
+21829,Supervisor/Koordinator,3,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Manajemen/Konsulting HR,16000000.0
+1065,Supervisor/Koordinator,3,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,6000000.0
+5151,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Automobil/Mesin Tambahan Automotif/Kendaraan,4500000.0
+4700,Manajer/Asisten Manajer,2,0,1,1,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,6000000.0
+7937,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Retail/Merchandise,4700000.0
+22782,Pegawai (non-manajemen & non-supervisor),5,0,0,0,1,1,1,1,0,0,0,0,Survei Kuantitas,Bangunan/Konstruksi,Manufaktur/Produksi,7500000.0
+17992,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Komputer/Teknik Informatika (Perangkat Lunak),6000000.0
+26054,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,4750000.0
+14905,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Teknik Lainnya,Teknik,Minyak/Gas/Petroleum,5750000.0
+26619,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,12000000.0
+20599,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Layanan Pelanggan,Pelayanan,Umum & Grosir,3650000.0
+2250,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Industri Berat/Mesin/Peralatan,3600000.0
+29864,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Retail/Merchandise,6000000.0
+26589,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),8500000.0
+25420,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,4000000.0
+16447,Manajer/Asisten Manajer,2,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,5031500.0
+19689,Pegawai (non-manajemen & non-supervisor),2,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,4000000.0
+28231,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Retail/Merchandise,9000000.0
+10263,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5500000.0
+4956,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Umum & Grosir,5250000.0
+9176,Pegawai (non-manajemen & non-supervisor),5,1,0,0,0,0,0,0,0,0,0,0,E-commerce,Penjualan / Pemasaran,Umum & Grosir,3000000.0
+2335,Supervisor/Koordinator,3,0,1,1,1,1,1,1,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Pakaian,5500000.0
+24552,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Kayu/Fiber/Kertas,2750000.0
+14204,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Merchandising,Penjualan / Pemasaran,Retail/Merchandise,7000000.0
+18570,Supervisor/Koordinator,2,0,0,0,1,1,1,0,0,0,0,0,Teknik Lainnya,Teknik,Produk Konsumen/Barang konsumen yang bergerak cepat,6500000.0
+209,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,E-commerce,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,6000000.0
+24372,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,1,0,0,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Bahan Kimia/Pupuk/Pestisida,6000000.0
+15841,Pegawai (non-manajemen & non-supervisor),3,0,1,1,0,0,0,1,1,1,1,0,Penjualan - Korporasi,Penjualan / Pemasaran,Industri Berat/Mesin/Peralatan,4500000.0
+10484,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,4000000.0
+1793,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,9500000.0
+29883,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Umum & Grosir,4800000.0
+19794,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Pertambangan,12250000.0
+31391,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Properti/Real Estate,14500000.0
+22570,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Manufaktur/Produksi,2750000.0
+2087,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Industri Berat/Mesin/Peralatan,9500000.0
+17824,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Periklanan/Marketing/Promosi/Hubungan Masyarakat,8100000.0
+30077,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Perawatan/Kecantikan/Fitnes,5000000.0
+1099,Manajer/Asisten Manajer,3,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Kesehatan/Medis,8400000.0
+4101,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,3000000.0
+4235,Manajer/Asisten Manajer,1,0,0,0,1,1,1,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,5250000.0
+9100,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Transportasi/Logistik,4500000.0
+23011,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Konstruksi/Bangunan/Teknik,4250000.0
+20014,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,13225000.0
+13885,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Pertambangan,6000000.0
+24975,Pegawai (non-manajemen & non-supervisor),2,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,2750000.0
+4544,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),9000000.0
+1042,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Lainnya,7200000.0
+11046,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,6000000.0
+31256,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,5400000.0
+2845,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Perbankan/Pelayanan Keuangan,3000000.0
+2710,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manufaktur/Produksi,4025000.0
+2754,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2880000.0
+24059,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Kesehatan/Medis,4800000.0
+6238,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,3250000.0
+4680,Pegawai (non-manajemen & non-supervisor),4,1,0,0,0,0,0,0,0,0,0,0,Teknik Elektro,Teknik,Kesehatan/Medis,5580000.0
+21500,CEO/GM/Direktur/Manajer Senior,2,0,1,1,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Makanan & Minuman/Katering/Restoran,18000000.0
+25979,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,1,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Retail/Merchandise,1750000.0
+27281,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Industri Berat/Mesin/Peralatan,6000000.0
+1213,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Bahan Kimia/Pupuk/Pestisida,5400000.0
+14075,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Makanan & Minuman/Katering/Restoran,7000000.0
+6534,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Konstruksi/Bangunan/Teknik,7200000.0
+1046,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Bahan Kimia/Pupuk/Pestisida,12000000.0
+23292,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Komputer/Teknik Informatika (Perangkat Keras),4800000.0
+22763,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Pengacara / Asisten Legal,Pelayanan,,15600000.0
+18138,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Manufaktur/Produksi,4500000.0
+28259,Supervisor/Koordinator,2,0,1,1,0,0,0,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,3600000.0
+12379,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,5615000.0
+16228,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Elektrikal & Elektronik,6000000.0
+15535,Pegawai (non-manajemen & non-supervisor),4,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),20000000.0
+1929,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,10500000.0
+14925,CEO/GM/Direktur/Manajer Senior,3,0,0,0,0,0,0,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,18000000.0
+16202,Manajer/Asisten Manajer,12,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Automobil/Mesin Tambahan Automotif/Kendaraan,16500000.0
+25408,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Properti/Real Estate,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,2950000.0
+8641,Pegawai (non-manajemen & non-supervisor),5,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Transportasi/Logistik,4800000.0
+9113,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Manajemen/Konsulting HR,4850000.0
+10251,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,,9600000.0
+15347,Pegawai (non-manajemen & non-supervisor),,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,3600000.0
+1698,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,5000000.0
+24554,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Teknik Elektro,Teknik,Konstruksi/Bangunan/Teknik,5256000.0
+24566,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,3000000.0
+26137,Manajer/Asisten Manajer,5,0,1,1,1,1,1,1,0,0,0,0,Praktisi/Asisten Medis,Layanan Kesehatan,Makanan & Minuman/Katering/Restoran,14000000.0
+4078,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,4700000.0
+11543,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Makanan & Minuman/Katering/Restoran,5000000.0
+6543,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Percetakan/Penerbitan,4671250.0
+6283,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Produk Konsumen/Barang konsumen yang bergerak cepat,3105000.0
+17009,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Hotel/Pariwisata,6000000.0
+13498,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",4200000.0
+30975,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,7500000.0
+3524,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Akunting / Audit / Layanan Pajak,5750000.0
+3496,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",9000000.0
+7206,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,BioTeknologi/Farmasi/Riset klinik,5570230.0
+18191,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,2750000.0
+10999,Supervisor/Koordinator,2,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Makanan & Minuman/Katering/Restoran,7000000.0
+12327,Pegawai (non-manajemen & non-supervisor),,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,5000000.0
+31227,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,12000000.0
+28564,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Pemeliharaan,Manufaktur,Makanan & Minuman/Katering/Restoran,6600000.0
+9430,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5750000.0
+30197,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Makanan & Minuman/Katering/Restoran,3500000.0
+17556,Manajer/Asisten Manajer,3,1,0,0,0,0,0,0,0,0,0,0,Manufaktur,Manufaktur,,8500000.0
+1665,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,4525000.0
+23916,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Umum & Grosir,7250000.0
+23831,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Manufaktur/Produksi,6000000.0
+31675,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Umum & Grosir,7750000.0
+25711,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Pelayanan Perbaikan & Pemeliharaan,3000000.0
+9824,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manufaktur/Produksi,4950000.0
+21346,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Konsultasi (Bisnis & Manajemen),4500000.0
+6272,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Manajemen/Konsulting HR,6000000.0
+18654,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Kesehatan/Medis,5100000.0
+11306,Manajer/Asisten Manajer,3,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Asuransi,8000000.0
+20563,Supervisor/Koordinator,2,0,0,0,1,1,1,0,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Retail/Merchandise,6000000.0
+20268,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,3500000.0
+31209,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Umum & Grosir,5000000.0
+3312,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",7000000.0
+28071,Supervisor/Koordinator,7,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",17250000.0
+4405,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Produk Konsumen/Barang konsumen yang bergerak cepat,4600000.0
+16895,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Pelayanan Perbaikan & Pemeliharaan,5250000.0
+27550,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Kesehatan/Medis,5000000.0
+6160,Pegawai (non-manajemen & non-supervisor),4,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Lainnya,7500000.0
+13911,Pegawai (non-manajemen & non-supervisor),2,0,1,1,0,0,0,1,0,0,0,0,Properti/Real Estate,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,3750000.0
+11416,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,BioTeknologi/Farmasi/Riset klinik,5582195.0
+6692,Supervisor/Koordinator,2,0,0,0,1,1,1,1,1,1,1,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,5750000.0
+28037,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,3000000.0
+18527,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Produk Konsumen/Barang konsumen yang bergerak cepat,4200000.0
+30130,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Lainnya,12500000.0
+24730,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Retail/Merchandise,2250000.0
+21035,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2880000.0
+14688,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Periklanan/Marketing/Promosi/Hubungan Masyarakat,5750000.0
+7742,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Farmasi,Layanan Kesehatan,BioTeknologi/Farmasi/Riset klinik,4000000.0
+21793,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,1,1,1,0,Farmasi,Layanan Kesehatan,Produk Konsumen/Barang konsumen yang bergerak cepat,18000000.0
+14114,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Minyak/Gas/Petroleum,4900000.0
+13419,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Travel/Pariwisata,3750000.0
+8266,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2185000.0
+28624,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,3000000.0
+24757,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Perbankan/Pelayanan Keuangan,2250000.0
+18431,Pegawai (non-manajemen & non-supervisor),4,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Transportasi/Logistik,17901235.0
+16019,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,,4500000.0
+1068,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Automobil/Mesin Tambahan Automotif/Kendaraan,7920000.0
+10022,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Konstruksi/Bangunan/Teknik,4750000.0
+5589,Supervisor/Koordinator,4,0,0,0,0,0,0,1,0,0,0,0,Keuangan / Investasi Perusahaan ,Akuntansi / Keuangan,Perawatan/Kecantikan/Fitnes,6000000.0
+11460,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Lainnya,2250000.0
+247,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Layanan Pelanggan,Pelayanan,Manajemen/Konsulting HR,4740000.0
+26632,Supervisor/Koordinator,1,1,0,0,0,0,0,0,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Manufaktur/Produksi,5600000.0
+21054,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Komputer/Teknik Informatika (Perangkat Lunak),3000000.0
+11577,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,4000000.0
+7712,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Pembelian/Manajemen Material,Manufaktur,Manajemen/Konsulting HR,5900000.0
+13585,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),7000000.0
+19448,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Tekstil/Garment,6750000.0
+20635,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Lainnya,3600000.0
+7596,Pegawai (non-manajemen & non-supervisor),2,0,1,1,0,0,0,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Elektrikal & Elektronik,3324960.0
+19345,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,2900000.0
+31150,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,4250000.0
+11047,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Manajemen/Konsulting HR,2750000.0
+31327,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,2400000.0
+21400,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,3500000.0
+10212,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,0,0,0,0,0,Pekerjaan Umum,Lainnya,Automobil/Mesin Tambahan Automotif/Kendaraan,3285000.0
+16920,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Properti/Real Estate,6000000.0
+989,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,4250000.0
+5370,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Lainnya,4500000.0
+28340,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Manajemen/Konsulting HR,2880000.0
+10387,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Industri Berat/Mesin/Peralatan,6500000.0
+2412,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Hiburan/Media,6500000.0
+7080,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Properti/Real Estate,Bangunan/Konstruksi,Lainnya,6750000.0
+16612,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Konstruksi/Bangunan/Teknik,4800000.0
+11959,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Manajemen/Konsulting HR,8250000.0
+16654,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Diagnosa/Lainnya,Layanan Kesehatan,Perawatan/Kecantikan/Fitnes,6600000.0
+28491,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,,3750000.0
+22622,Manajer/Asisten Manajer,2,1,0,0,0,0,0,0,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Periklanan/Marketing/Promosi/Hubungan Masyarakat,7500000.0
+10366,Manajer/Asisten Manajer,1,0,0,0,1,1,1,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,4650000.0
+1878,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Manufaktur,Manufaktur,Periklanan/Marketing/Promosi/Hubungan Masyarakat,2880000.0
+3910,Supervisor/Koordinator,10,0,0,0,0,0,0,1,1,1,1,0,Mekanikal,Teknik,,18000000.0
+15813,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Komputer/Teknik Informatika (Perangkat Lunak),5000000.0
+25444,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Pelayanan Arsitek/Desain Interior,5100000.0
+26492,Supervisor/Koordinator,5,1,0,0,0,0,0,0,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Properti/Real Estate,5750000.0
+30989,Manajer/Asisten Manajer,10,1,0,0,0,0,0,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Manajemen/Konsulting HR,10875000.0
+26981,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),7000000.0
+23303,Supervisor/Koordinator,3,1,0,0,0,0,0,0,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,12000000.0
+9151,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Manufaktur/Produksi,3750000.0
+2694,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,1,0,0,0,0,Manufaktur,Manufaktur,Tekstil/Garment,4500000.0
+21965,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Hotel/Pariwisata,2750000.0
+21349,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,,7500000.0
+3545,Pegawai (non-manajemen & non-supervisor),3,0,1,1,0,0,0,1,0,0,0,0,Manufaktur,Manufaktur,Tekstil/Garment,7500000.0
+6097,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Konstruksi/Bangunan/Teknik,3250000.0
+3271,Manajer/Asisten Manajer,5,0,0,0,1,1,1,0,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Umum & Grosir,11000000.0
+3453,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,6000000.0
+27967,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Pakaian,3600000.0
+27422,Supervisor/Koordinator,3,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,5000000.0
+14120,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Komputer/Teknik Informatika (Perangkat Lunak),15000000.0
+11419,Supervisor/Koordinator,,0,0,0,1,1,1,1,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Automobil/Mesin Tambahan Automotif/Kendaraan,7500000.0
+4744,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,10500000.0
+26123,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Bahan Kimia/Pupuk/Pestisida,5400000.0
+12226,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,6000000.0
+25389,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Lingkungan/Kesehatan/Keamanan,6250000.0
+25754,CEO/GM/Direktur/Manajer Senior,5,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Kayu/Fiber/Kertas,12500000.0
+20061,Pegawai (non-manajemen & non-supervisor),5,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Automobil/Mesin Tambahan Automotif/Kendaraan,15000000.0
+27327,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,3750000.0
+26722,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,1,1,1,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,9000000.0
+9259,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Polymer/Plastik/Karet/Ban,3900000.0
+23178,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Pemeliharaan,Manufaktur,Manufaktur/Produksi,3750000.0
+14796,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Diagnosa/Lainnya,Layanan Kesehatan,Perawatan/Kecantikan/Fitnes,6600000.0
+9784,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Jurnalis/Editor,Lainnya,Konstruksi/Bangunan/Teknik,7500000.0
+24857,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,12000000.0
+11078,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Agrikultural/Perkebunan/Peternakan Unggas/Perikanan,5000000.0
+2545,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Konstruksi/Bangunan/Teknik,6000000.0
+7237,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Lainnya,5000000.0
+26946,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Kimia,Sains,Manufaktur/Produksi,5500000.0
+24561,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Komputer/Teknik Informatika (Perangkat Lunak),4750000.0
+25692,Manajer/Asisten Manajer,4,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,7000000.0
+22145,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5500000.0
+415,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Umum & Grosir,5500000.0
+9676,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,4500000.0
+30685,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,3500000.0
+29972,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Manufaktur/Produksi,6000000.0
+23788,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Percetakan/Penerbitan,4671250.0
+28463,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Telekomunikasi,2400000.0
+24709,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),7500000.0
+18933,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Komputer/Teknik Informatika (Perangkat Lunak),8500000.0
+25493,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,5400000.0
+16722,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,0,0,0,0,0,Teknik Elektro,Teknik,BioTeknologi/Farmasi/Riset klinik,3800000.0
+14764,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,4200000.0
+24999,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,Teknologi Makanan/Ahli Gizi,Sains,Manufaktur/Produksi,6000000.0
+15632,Manajer/Asisten Manajer,2,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Kesehatan/Medis,6000000.0
+31634,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Industri Berat/Mesin/Peralatan,4250000.0
+1545,Pegawai (non-manajemen & non-supervisor),2,0,1,1,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,5400000.0
+1162,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),4800000.0
+18662,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Teknik Elektronika,Teknik,Manajemen/Konsulting HR,3600000.0
+21888,Manajer/Asisten Manajer,4,0,0,0,0,0,0,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Manajemen/Konsulting HR,15500000.0
+26368,Supervisor/Koordinator,20,0,0,0,0,0,0,1,1,1,1,0,Teknik Elektro,Teknik,,18000000.0
+31674,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Hotel/Pariwisata,4208095.0
+17000,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Periklanan/Marketing/Promosi/Hubungan Masyarakat,8500000.0
+16306,Supervisor/Koordinator,1,0,1,1,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Komputer/Teknik Informatika (Perangkat Lunak),7500000.0
+29679,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Umum & Grosir,4687740.0
+27139,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),7000000.0
+21723,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Praktisi/Asisten Medis,Layanan Kesehatan,Perawatan/Kecantikan/Fitnes,3600000.0
+8081,Pegawai (non-manajemen & non-supervisor),3,0,1,1,0,0,0,0,0,0,0,0,Pekerjaan Umum,Lainnya,Konstruksi/Bangunan/Teknik,4350000.0
+18505,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Keras,Komputer/Teknologi Informasi,Kesehatan/Medis,6000000.0
+15328,Pegawai (non-manajemen & non-supervisor),5,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,12000000.0
+5462,Supervisor/Koordinator,2,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,7800000.0
+18344,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Produk Konsumen/Barang konsumen yang bergerak cepat,4200000.0
+20706,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,5500000.0
+19999,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,4400000.0
+5580,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Produk Konsumen/Barang konsumen yang bergerak cepat,10000000.0
+6638,Pegawai (non-manajemen & non-supervisor),5,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,6000000.0
+15944,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,8000000.0
+21936,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Umum & Grosir,4200000.0
+17276,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Pelayanan Arsitek/Desain Interior,6000000.0
+80,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,11500000.0
+25880,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,10500000.0
+2257,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,0,0,0,0,0,Mekanikal,Teknik,Organisasi Nirlaba/Pelayanan Sosial/LSM,8400000.0
+22633,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,4,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Keras),12500000.0
+8581,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Manufaktur/Produksi,4875000.0
+4044,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,1,1,1,0,Pembelian/Manajemen Material,Manufaktur,Bahan Kimia/Pupuk/Pestisida,17500000.0
+5299,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Manufaktur/Produksi,4500000.0
+19575,Pegawai (non-manajemen & non-supervisor),17,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Retail/Merchandise,2160000.0
+18898,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,3600000.0
+10681,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Lainnya,4800000.0
+7388,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Properti/Real Estate,6000000.0
+21353,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Properti/Real Estate,9000000.0
+9300,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Agrikultural/Perkebunan/Peternakan Unggas/Perikanan,11250000.0
+19350,CEO/GM/Direktur/Manajer Senior,1,1,0,0,0,0,0,0,0,0,0,0,Kimia,Sains,Perawatan/Kecantikan/Fitnes,12500000.0
+14238,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,3387500.0
+14990,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pengacara / Asisten Legal,Pelayanan,Hukum/Legal,7500000.0
+14993,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Teknik Industri,Teknik,Manufaktur/Produksi,7000000.0
+7664,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Bahan Kimia/Pupuk/Pestisida,4650000.0
+27494,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,0,0,0,0,0,Hotel/Pariwisata,Hotel/Restoran,Travel/Pariwisata,4436500.0
+29293,Manajer/Asisten Manajer,5,0,0,0,1,1,1,1,1,1,1,0,Penjaminan Kualitas / QA,Manufaktur,Manajemen/Konsulting HR,11500000.0
+28788,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Manajemen/Konsulting HR,9500000.0
+26225,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,2,0,1,1,1,1,1,0,0,0,0,0,Farmasi,Layanan Kesehatan,Kesehatan/Medis,3000000.0
+12266,Pegawai (non-manajemen & non-supervisor),5,0,0,0,1,1,1,1,1,1,1,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Manajemen/Konsulting HR,10000000.0
+13661,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Retail/Merchandise,14400000.0
+1822,Supervisor/Koordinator,1,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Akunting / Audit / Layanan Pajak,2600000.0
+25241,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Akunting / Audit / Layanan Pajak,8750000.0
+6082,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Retail/Merchandise,4750000.0
+7989,Manajer/Asisten Manajer,5,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",11000000.0
+14462,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Mekanikal,Teknik,Umum & Grosir,7200000.0
+30047,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,5157815.0
+8626,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Makanan & Minuman/Katering/Restoran,4250000.0
+16356,Manajer/Asisten Manajer,2,0,0,0,0,0,0,1,1,1,1,0,Praktisi/Asisten Medis,Layanan Kesehatan,Kesehatan/Medis,9000000.0
+19090,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,5300400.0
+9910,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Retail/Merchandise,8500000.0
+13154,Manajer/Asisten Manajer,2,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Transportasi/Logistik,20500000.0
+18019,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Tekstil/Garment,4800000.0
+19123,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Konstruksi/Bangunan/Teknik,4750000.0
+30059,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Manufaktur/Produksi,5500000.0
+17065,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Properti/Real Estate,6000000.0
+14248,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Layanan Pelanggan,Pelayanan,Telekomunikasi,4750000.0
+17653,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Manufaktur/Produksi,3100000.0
+11457,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Keuangan / Investasi Perusahaan ,Akuntansi / Keuangan,Asuransi,6000000.0
+19,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,4750000.0
+19937,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),15000000.0
+26617,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,4700000.0
+27489,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,0,0,0,0,0,Manufaktur,Manufaktur,Agrikultural/Perkebunan/Peternakan Unggas/Perikanan,4945000.0
+31490,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,5079550.0
+421,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Agrikultural/Perkebunan/Peternakan Unggas/Perikanan,1300000.0
+4221,Manajer/Asisten Manajer,10,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manajemen/Konsulting HR,13500000.0
+465,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",12000000.0
+7546,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,6750000.0
+6709,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Kesehatan/Medis,14400000.0
+31183,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Pendidikan,5000000.0
+1047,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,1,0,0,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Perbankan/Pelayanan Keuangan,4600000.0
+3773,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Periklanan/Marketing/Promosi/Hubungan Masyarakat,6500000.0
+5865,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,2550000.0
+811,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5500000.0
+23,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Elektrikal & Elektronik,5250000.0
+19033,Pegawai (non-manajemen & non-supervisor),3,0,1,1,0,0,0,0,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Pertambangan,6500000.0
+22419,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Properti/Real Estate,10500000.0
+6208,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,2750000.0
+30938,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Pakaian,3200000.0
+22422,Supervisor/Koordinator,5,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Retail/Merchandise,6000000.0
+25675,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Lainnya,14000000.0
+175,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Produk Konsumen/Barang konsumen yang bergerak cepat,6000000.0
+16102,Manajer/Asisten Manajer,1,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),10000000.0
+21968,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Transportasi/Logistik,15000000.0
+28785,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Pekerjaan Umum,Lainnya,Umum & Grosir,3600000.0
+26147,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,4750000.0
+12258,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,4800000.0
+30428,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,5250000.0
+30911,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Industri Berat/Mesin/Peralatan,16500000.0
+28771,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,3500000.0
+26342,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,0,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Elektrikal & Elektronik,5635000.0
+1070,Supervisor/Koordinator,2,0,0,0,0,0,0,1,1,1,1,0,Logistik/Rantai Pasokan,Pelayanan,,6500000.0
+8802,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,5000000.0
+24755,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Agrikultural/Perkebunan/Peternakan Unggas/Perikanan,4900000.0
+19197,Pegawai (non-manajemen & non-supervisor),3,0,1,1,0,0,0,0,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manufaktur/Produksi,4000000.0
+13703,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Konstruksi/Bangunan/Teknik,3960000.0
+2560,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,1,1,1,0,Penjaminan Kualitas / QA,Manufaktur,Manufaktur/Produksi,4150000.0
+22129,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,4500000.0
+8741,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Transportasi/Logistik,6000000.0
+13823,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,4000000.0
+8095,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,6000000.0
+6551,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,6600000.0
+23886,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Properti/Real Estate,3804000.0
+16631,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5500000.0
+8324,Supervisor/Koordinator,1,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manufaktur/Produksi,9000000.0
+28866,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),6000000.0
+14851,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,1,1,1,0,Digital Marketing,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),16500000.0
+5500,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Manufaktur/Produksi,3600000.0
+7486,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,5400000.0
+24409,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,8400000.0
+9057,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,4800000.0
+29541,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,2,1,0,0,0,0,0,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",12000000.0
+19903,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Transportasi/Logistik,4945600.0
+12111,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Pemeliharaan,Manufaktur,Manufaktur/Produksi,6000000.0
+23866,Manajer/Asisten Manajer,2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Transportasi/Logistik,17000000.0
+18599,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Kesehatan/Medis,4500000.0
+10613,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,Manufaktur,Manufaktur,Manufaktur/Produksi,10000000.0
+9782,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Lainnya,4400000.0
+30124,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Hotel/Pariwisata,Hotel/Restoran,Hiburan/Media,2400000.0
+21299,Pegawai (non-manajemen & non-supervisor),4,0,0,0,0,0,0,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,4680000.0
+26317,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Makanan & Minuman/Katering/Restoran,4250000.0
+15383,CEO/GM/Direktur/Manajer Senior,7,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Automobil/Mesin Tambahan Automotif/Kendaraan,18000000.0
+29703,Manajer/Asisten Manajer,7,0,0,0,0,0,0,1,1,1,1,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,20000000.0
+29449,Pegawai (non-manajemen & non-supervisor),,0,0,0,0,0,0,1,0,0,0,0,Properti/Real Estate,Bangunan/Konstruksi,Retail/Merchandise,3900000.0
+24567,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Mekanikal,Teknik,Manufaktur/Produksi,6250000.0
+1370,CEO/GM/Direktur/Manajer Senior,2,0,0,0,0,0,0,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Manajemen/Konsulting HR,12000000.0
+27679,Pegawai (non-manajemen & non-supervisor),,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Pemerintahan/Pertahanan,8300000.0
+29672,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,1,1,1,0,Keuangan / Investasi Perusahaan ,Akuntansi / Keuangan,,20000000.0
+15397,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,1,0,0,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Asuransi,4900000.0
+27116,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,1,1,1,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,8000000.0
+20206,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5500000.0
+16446,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manajemen/Konsulting HR,7000000.0
+11056,Supervisor/Koordinator,3,0,0,0,0,0,0,1,1,1,1,1,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Pertambangan,12500000.0
+17340,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Produk Konsumen/Barang konsumen yang bergerak cepat,3900000.0
+19020,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Perbankan/Pelayanan Keuangan,3600000.0
+150,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,3600000.0
+22613,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Retail/Merchandise,4000000.0
+24401,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4500000.0
+19039,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Transportasi/Logistik,6500000.0
+9231,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Manufaktur,Manufaktur,Seni/Desain/Fashion,4000000.0
+29460,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Kesehatan/Medis,5400000.0
+4199,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,5750000.0
+7161,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Produk Konsumen/Barang konsumen yang bergerak cepat,13500000.0
+31331,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Praktisi/Asisten Medis,Layanan Kesehatan,Kesehatan/Medis,3625000.0
+14314,Pegawai (non-manajemen & non-supervisor),5,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",8250000.0
+7138,Supervisor/Koordinator,3,0,1,1,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Minyak/Gas/Petroleum,6000000.0
+5548,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,1,1,1,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,4500000.0
+11675,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Konsultasi (Bisnis & Manajemen),8000000.0
+13372,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,6750000.0
+13157,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Umum & Grosir,6000000.0
+6618,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,1,0,0,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Telekomunikasi,4800000.0
+4317,Supervisor/Koordinator,1,0,0,0,1,1,1,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Makanan & Minuman/Katering/Restoran,2000000.0
+3060,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Properti/Real Estate,3250000.0
+10884,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,E-commerce,Penjualan / Pemasaran,Retail/Merchandise,3050000.0
+6519,Manajer/Asisten Manajer,3,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,12000000.0
+4658,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Retail/Merchandise,6500000.0
+28099,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,4800000.0
+13292,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Retail/Merchandise,8000000.0
+25713,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),6500000.0
+15763,Manajer/Asisten Manajer,8,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Pelayanan Arsitek/Desain Interior,13500000.0
+2019,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Hotel/Pariwisata,Hotel/Restoran,Transportasi/Logistik,4000000.0
+25061,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manajemen/Konsulting HR,6750000.0
+25586,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Pakaian,5750000.0
+29502,Pegawai (non-manajemen & non-supervisor),,0,0,0,0,0,0,1,0,0,0,0,Farmasi,Layanan Kesehatan,BioTeknologi/Farmasi/Riset klinik,3000000.0
+2361,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Travel/Pariwisata,2250000.0
+25123,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,5300000.0
+6802,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,1,0,0,0,0,Jurnalis/Editor,Lainnya,Konsultasi (Bisnis & Manajemen),9000000.0
+6553,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,1,1,1,0,Pengacara / Asisten Legal,Pelayanan,Transportasi/Logistik,4390000.0
+3382,Supervisor/Koordinator,1,0,0,0,0,0,0,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,4750000.0
+277,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,1,1,1,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Kesehatan/Medis,7750000.0
+23574,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Perbankan / Jasa Finansial ,Akuntansi / Keuangan,Perbankan/Pelayanan Keuangan,3000000.0
+11671,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Elektrikal & Elektronik,8000000.0
+18058,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Kesehatan/Medis,6750000.0
+5540,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,5400000.0
+10705,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Call Center/IT-Enabled Services/BPO,5400000.0
+21443,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,5520000.0
+29010,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,4650000.0
+24449,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Konsultasi (Bisnis & Manajemen),5500000.0
+6171,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Transportasi/Logistik,5100000.0
+15906,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Akunting / Audit / Layanan Pajak,3600000.0
+22305,Manajer/Asisten Manajer,8,0,0,0,0,0,0,1,1,1,1,0,Digital Marketing,Penjualan / Pemasaran,Properti/Real Estate,11000000.0
+29258,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5000000.0
+6410,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,5640000.0
+29529,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,3840000.0
+988,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Bahan Kimia/Pupuk/Pestisida,3453960.0
+17540,Supervisor/Koordinator,5,0,0,0,1,1,1,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Manufaktur/Produksi,10000000.0
+28322,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,5580000.0
+7595,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Lainnya,3000000.0
+4084,Supervisor/Koordinator,1,0,1,1,0,0,0,0,0,0,0,0,Angkatan Bersenjata,Pelayanan,Telekomunikasi,5000000.0
+3106,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5100000.0
+29470,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Merchandising,Penjualan / Pemasaran,Manufaktur/Produksi,8250000.0
+28817,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Retail/Merchandise,4500000.0
+4051,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Farmasi,Layanan Kesehatan,Retail/Merchandise,5250000.0
+2612,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,2160000.0
+9487,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,4700000.0
+1172,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,3750000.0
+2800,Pegawai (non-manajemen & non-supervisor),5,0,0,0,1,1,1,1,1,1,1,0,Mekanikal,Teknik,Manajemen/Konsulting HR,8500000.0
+16408,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Umum & Grosir,5000000.0
+1190,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,5000000.0
+31284,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Konstruksi/Bangunan/Teknik,5500000.0
+27841,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,3600000.0
+31258,Supervisor/Koordinator,2,0,0,0,0,0,0,1,1,1,1,0,E-commerce,Penjualan / Pemasaran,Kesehatan/Medis,9500000.0
+25159,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Kelautan/Aquakultur,7000000.0
+14893,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4500000.0
+31413,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Pelatihan & Pengembangan,Pendidikan/Pelatihan,Automobil/Mesin Tambahan Automotif/Kendaraan,6680500.0
+20745,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Kesehatan/Medis,3000000.0
+18284,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Manufaktur/Produksi,10500000.0
+6403,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Konstruksi/Bangunan/Teknik,5160000.0
+14191,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Umum & Grosir,3450000.0
+1264,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Industri Berat/Mesin/Peralatan,4500000.0
+27202,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Manufaktur/Produksi,4500000.0
+13843,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Layanan Pelanggan,Pelayanan,Retail/Merchandise,3000000.0
+16333,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Konstruksi/Bangunan/Teknik,3000000.0
+5490,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Retail/Merchandise,3000000.0
+6509,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Manajemen/Konsulting HR,4450000.0
+6381,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,,3600000.0
+19923,Manajer/Asisten Manajer,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,11250000.0
+31571,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,2750000.0
+11926,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,12000000.0
+16916,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Pelatihan & Pengembangan,Pendidikan/Pelatihan,Manajemen/Konsulting HR,9000000.0
+19507,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Transportasi/Logistik,6500000.0
+9442,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Konsultasi (Bisnis & Manajemen),7500000.0
+30699,Manajer/Asisten Manajer,3,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Konsultasi (Bisnis & Manajemen),11250000.0
+20838,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,,14400000.0
+14129,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4100000.0
+18155,CEO/GM/Direktur/Manajer Senior,5,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,12000000.0
+1188,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Manufaktur/Produksi,3000000.0
+26804,Pegawai (non-manajemen & non-supervisor),10,1,0,0,0,0,0,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),11500000.0
+7412,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Polymer/Plastik/Karet/Ban,5250000.0
+30006,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Pelayanan Arsitek/Desain Interior,6000000.0
+31052,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,,5400000.0
+3997,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Hiburan/Media,6250000.0
+5576,Manajer/Asisten Manajer,5,1,0,0,0,0,0,0,0,0,0,0,Keuangan / Investasi Perusahaan ,Akuntansi / Keuangan,Komputer/Teknik Informatika (Perangkat Lunak),12000000.0
+2886,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Produk Konsumen/Barang konsumen yang bergerak cepat,7200000.0
+28263,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Produk Konsumen/Barang konsumen yang bergerak cepat,5000000.0
+12377,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,1500000.0
+9476,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,5060000.0
+18942,Supervisor/Koordinator,,0,0,0,0,0,0,1,0,0,0,0,Manufaktur,Manufaktur,Manufaktur/Produksi,6750000.0
+2172,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,1750000.0
+23014,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,3000000.0
+29813,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Transportasi/Logistik,10000000.0
+13884,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Lainnya,8250000.0
+6580,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Lainnya,6000000.0
+24072,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,1,0,0,0,0,Jurnalis/Editor,Lainnya,Konsultasi (Bisnis & Manajemen),9000000.0
+3071,Manajer/Asisten Manajer,5,0,1,1,1,1,1,1,0,0,0,0,Praktisi/Asisten Medis,Layanan Kesehatan,Makanan & Minuman/Katering/Restoran,14000000.0
+299,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,6680500.0
+20434,Supervisor/Koordinator,3,1,0,0,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Retail/Merchandise,4800000.0
+684,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),7200000.0
+28680,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Industri Berat/Mesin/Peralatan,3750000.0
+9188,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Keras,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),3750000.0
+28629,Manajer/Asisten Manajer,1,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Manufaktur/Produksi,5500000.0
+3983,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Sains & Teknologi,Sains,Manufaktur/Produksi,5000000.0
+26480,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),10250000.0
+5853,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Bahan Kimia/Pupuk/Pestisida,4500000.0
+1323,Supervisor/Koordinator,1,1,0,0,0,0,0,0,0,0,0,0,Farmasi,Layanan Kesehatan,Kesehatan/Medis,3500000.0
+3005,Pegawai (non-manajemen & non-supervisor),5,0,0,0,0,0,0,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Komputer/Teknik Informatika (Perangkat Lunak),8500000.0
+14599,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,2520000.0
+15643,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Manajemen/Konsulting HR,5000000.0
+683,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,6000000.0
+24071,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",10250000.0
+27958,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,5300000.0
+18642,Manajer/Asisten Manajer,3,0,1,1,1,1,1,1,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Manufaktur/Produksi,11500000.0
+23208,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Sains & Teknologi,Sains,Industri Berat/Mesin/Peralatan,7250000.0
+6024,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Kelautan/Aquakultur,5000000.0
+27751,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,12500000.0
+12540,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Umum & Grosir,4150000.0
+2038,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Akunting / Audit / Layanan Pajak,4700000.0
+21875,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Umum & Grosir,2750000.0
+24716,Pegawai (non-manajemen & non-supervisor),,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),5500000.0
+21397,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Lainnya,4500000.0
+4003,CEO/GM/Direktur/Manajer Senior,5,0,0,0,0,0,0,1,1,1,1,0,Periklanan,Seni/Media/Komunikasi,Percetakan/Penerbitan,11500000.0
+10749,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,1600000.0
+3750,Manajer/Asisten Manajer,3,0,0,0,1,1,1,1,1,1,1,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,13500000.0
+7195,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),14000000.0
+10553,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Telekomunikasi,3700000.0
+7196,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Teknik Lainnya,Teknik,Konstruksi/Bangunan/Teknik,4800000.0
+7029,Supervisor/Koordinator,5,0,1,1,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Manufaktur/Produksi,6000000.0
+13775,Pegawai (non-manajemen & non-supervisor),5,0,0,0,0,0,0,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Produk Konsumen/Barang konsumen yang bergerak cepat,15000000.0
+13218,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,7700000.0
+6789,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Produk Konsumen/Barang konsumen yang bergerak cepat,7200000.0
+4630,Manajer/Asisten Manajer,6,1,0,0,0,0,0,0,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manufaktur/Produksi,20400000.0
+23892,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Komputer/Teknik Informatika (Perangkat Lunak),4200000.0
+21945,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,3375000.0
+7895,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,5000000.0
+24905,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,0,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Konsultasi (Bisnis & Manajemen),10000000.0
+11774,Manajer/Asisten Manajer,10,0,0,0,1,1,1,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Lainnya,11500000.0
+24422,Pegawai (non-manajemen & non-supervisor),,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,BioTeknologi/Farmasi/Riset klinik,4400000.0
+14649,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Praktisi/Asisten Medis,Layanan Kesehatan,Kesehatan/Medis,3000000.0
+9716,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Transportasi/Logistik,12500000.0
+22476,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,3018000.0
+31036,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,7800000.0
+11632,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Transportasi/Logistik,4500000.0
+14632,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Percetakan/Penerbitan,7000000.0
+18494,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Teknik Elektronika,Teknik,Umum & Grosir,11500000.0
+13229,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,BioTeknologi/Farmasi/Riset klinik,5500000.0
+29278,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Lainnya,8000000.0
+3424,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Properti/Real Estate,4900000.0
+30572,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,1,0,0,0,0,0,0,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Retail/Merchandise,3000000.0
+4622,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Teknik Elektro,Teknik,Konsultasi (Bisnis & Manajemen),4600000.0
+16691,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Lainnya,6000000.0
+26383,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Pengacara / Asisten Legal,Pelayanan,Perbankan/Pelayanan Keuangan,2160000.0
+11102,Supervisor/Koordinator,1,0,0,0,1,1,1,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Pameran/Manajemen acara/PIKP,6000000.0
+1050,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Teknik/Teknikal/IT,Penjualan / Pemasaran,Industri Berat/Mesin/Peralatan,6000000.0
+5620,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,2160000.0
+19695,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Lainnya,14400000.0
+22619,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,9500000.0
+13490,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,5500000.0
+25791,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",7000000.0
+15596,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Retail/Merchandise,4000000.0
+25133,CEO/GM/Direktur/Manajer Senior,4,0,0,0,0,0,0,1,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Perawatan/Kecantikan/Fitnes,9600000.0
+3226,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Telekomunikasi,15000000.0
+8073,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,4000000.0
+23431,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Telekomunikasi,6750000.0
+9074,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5500000.0
+3580,Pegawai (non-manajemen & non-supervisor),3,1,0,0,0,0,0,0,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Umum & Grosir,13000000.0
+31590,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,0,0,0,0,0,Telesales/Telemarketing,Penjualan / Pemasaran,Umum & Grosir,4650000.0
+1208,Supervisor/Koordinator,1,1,0,0,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Umum & Grosir,3500000.0
+19605,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Manufaktur/Produksi,4800000.0
+7709,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Properti/Real Estate,4750000.0
+21522,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,1,1,1,0,Sekretaris,Sumber Daya Manusia/Personalia,Manajemen/Konsulting HR,15000000.0
+29067,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Umum & Grosir,5300000.0
+19185,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,IT-Perangkat Keras,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",4700000.0
+19414,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Umum & Grosir,4650000.0
+17160,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Umum & Grosir,5160000.0
+17784,Supervisor/Koordinator,,0,0,0,0,0,0,1,0,0,0,0,Aktuaria/Statistik,Sains,Perbankan/Pelayanan Keuangan,3400000.0
+23078,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4500000.0
+26757,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Kesehatan/Medis,6250000.0
+13092,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Komputer/Teknik Informatika (Perangkat Lunak),3000000.0
+22032,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Umum & Grosir,6000000.0
+5498,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Lainnya,3000000.0
+1290,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Automobil/Mesin Tambahan Automotif/Kendaraan,6680500.0
+10560,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",9000000.0
+12243,Pegawai (non-manajemen & non-supervisor),5,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),20000000.0
+26200,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Konsultasi (Bisnis & Manajemen),3750000.0
+27974,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Retail/Merchandise,1200000.0
+13917,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Angkatan Bersenjata,Pelayanan,Lainnya,3402000.0
+14285,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,0,0,0,0,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Konsultasi (Bisnis & Manajemen),5400000.0
+598,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Industri Berat/Mesin/Peralatan,9200000.0
+19700,Supervisor/Koordinator,4,0,0,0,0,0,0,1,1,1,1,0,Logistik/Rantai Pasokan,Pelayanan,Manajemen/Konsulting HR,14000000.0
+18894,Supervisor/Koordinator,,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,,7650000.0
+18357,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Retail/Merchandise,2900000.0
+27988,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,2700000.0
+27,Manajer/Asisten Manajer,2,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",15000000.0
+7823,Supervisor/Koordinator,4,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Umum & Grosir,15000000.0
+29103,Supervisor/Koordinator,1,0,0,0,0,0,0,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Properti/Real Estate,7250000.0
+22185,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,3750000.0
+10524,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,3750000.0
+8823,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Umum & Grosir,7500000.0
+9675,Manajer/Asisten Manajer,11,0,0,0,0,0,0,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Manajemen/Konsulting HR,14500000.0
+25245,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4500000.0
+13459,Supervisor/Koordinator,2,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Konstruksi/Bangunan/Teknik,6425000.0
+4919,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,4025000.0
+2646,Pegawai (non-manajemen & non-supervisor),,0,1,1,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,2375000.0
+770,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,1,1,1,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Konsultasi (Bisnis & Manajemen),4500000.0
+4851,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Pameran/Manajemen acara/PIKP,4750000.0
+2196,Pegawai (non-manajemen & non-supervisor),,0,1,1,1,1,1,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Lainnya,2750000.0
+17939,Supervisor/Koordinator,3,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,,19000000.0
+9799,Pegawai (non-manajemen & non-supervisor),,0,1,1,1,1,1,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Transportasi/Logistik,3500000.0
+11450,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Manufaktur,Manufaktur,Manajemen/Konsulting HR,7000000.0
+1430,Manajer/Asisten Manajer,5,0,0,0,1,1,1,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Manufaktur/Produksi,15000000.0
+15258,Supervisor/Koordinator,2,0,0,0,1,1,1,1,1,1,1,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manajemen/Konsulting HR,8500000.0
+23660,Supervisor/Koordinator,1,0,1,1,1,1,1,1,0,0,0,0,Seni / Desain Kreatif,Seni/Media/Komunikasi,Retail/Merchandise,6500000.0
+27686,Supervisor/Koordinator,4,0,0,0,1,1,1,1,1,1,1,0,Telesales/Telemarketing,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,6375000.0
+41,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),5500000.0
+17444,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Retail/Merchandise,5720000.0
+22517,CEO/GM/Direktur/Manajer Senior,3,0,0,0,0,0,0,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,18000000.0
+23744,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Bahan Kimia/Pupuk/Pestisida,3340000.0
+7631,Pegawai (non-manajemen & non-supervisor),5,0,0,0,1,1,1,1,1,1,1,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Industri Berat/Mesin/Peralatan,5250000.0
+28917,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Asuransi,9600000.0
+2591,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Automobil/Mesin Tambahan Automotif/Kendaraan,2757500.0
+22651,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Transportasi/Logistik,5400000.0
+14159,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Umum & Grosir,3750000.0
+22521,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Umum & Grosir,4800000.0
+16210,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Umum & Grosir,5500000.0
+147,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Periklanan/Marketing/Promosi/Hubungan Masyarakat,12500000.0
+21428,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,,7500000.0
+18281,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,14000000.0
+23337,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Manufaktur/Produksi,5250000.0
+21671,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Seni/Desain/Fashion,4800000.0
+8012,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,3840000.0
+4061,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Penjualan - Teknik/Teknikal/IT,Penjualan / Pemasaran,Telekomunikasi,4600000.0
+11254,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Call Center/IT-Enabled Services/BPO,5750000.0
+28171,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Kesehatan/Medis,8400000.0
+16319,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Akunting / Audit / Layanan Pajak,4500000.0
+12476,Supervisor/Koordinator,5,0,0,0,1,1,1,1,1,1,1,0,Keuangan / Investasi Perusahaan ,Akuntansi / Keuangan,,7200000.0
+31244,Pegawai (non-manajemen & non-supervisor),3,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Elektrikal & Elektronik,4750000.0
+30489,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2880000.0
+1037,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Manufaktur/Produksi,6500000.0
+2134,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Makanan & Minuman/Katering/Restoran,2500000.0
+10714,Pegawai (non-manajemen & non-supervisor),,1,0,0,0,0,0,0,0,0,0,0,Pemasaran/Pengembangan Bisnis,Penjualan / Pemasaran,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",5400000.0
+28741,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,1,1,1,1,1,0,0,0,0,0,Periklanan,Seni/Media/Komunikasi,Lainnya,2125000.0
+3914,Manajer/Asisten Manajer,3,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Lainnya,8000000.0
+16995,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Lingkungan/Kesehatan/Keamanan,5250000.0
+16347,Pegawai (non-manajemen & non-supervisor),3,0,1,1,1,1,1,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Makanan & Minuman/Katering/Restoran,6260000.0
+798,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,,9000000.0
+16813,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Retail/Merchandise,3300000.0
+23470,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Komputer/Teknik Informatika (Perangkat Lunak),7200000.0
+25751,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,1750000.0
+13574,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",9600000.0
+25452,Supervisor/Koordinator,5,0,0,0,1,1,1,1,0,0,0,0,Lainnya/Kategori tidak tersedia,Lainnya,Tekstil/Garment,7500000.0
+11930,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),7500000.0
+21036,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,5150000.0
+19588,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,12500000.0
+16409,Supervisor/Koordinator,2,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,,5000000.0
+19992,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",7500000.0
+28563,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,4250000.0
+5477,Manajer/Asisten Manajer,8,1,0,0,0,0,0,0,0,0,0,0,Geologi/Geofisika,Sains,Produk Konsumen/Barang konsumen yang bergerak cepat,15000000.0
+28765,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manufaktur/Produksi,4800000.0
+19110,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Arsitek/Desain Interior,Bangunan/Konstruksi,Pelayanan Arsitek/Desain Interior,5250000.0
+5817,Pegawai (non-manajemen & non-supervisor),5,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Hiburan/Media,4800000.0
+7722,Supervisor/Koordinator,5,0,1,1,0,0,0,0,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,,7200000.0
+4285,Manajer/Asisten Manajer,2,0,0,0,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,11250000.0
+13611,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,1,0,0,0,0,0,0,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Umum & Grosir,4250000.0
+27700,Manajer/Asisten Manajer,,0,0,0,0,0,0,1,1,1,1,1,Penjualan - Korporasi,Penjualan / Pemasaran,Kesehatan/Medis,9600000.0
+24493,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,0,0,0,0,0,1,0,0,0,0,IT-Admin Jaringan/Sistem/Database,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",6600000.0
+22947,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Transportasi/Logistik,4000000.0
+27493,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2875000.0
+3277,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",12000000.0
+24955,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,2880000.0
+31527,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,1,0,0,0,0,Audit & Pajak,Akuntansi / Keuangan,Konsultasi (Bisnis & Manajemen),10000000.0
+10402,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Pembelian/Manajemen Material,Manufaktur,Manufaktur/Produksi,3650000.0
+10910,Manajer/Asisten Manajer,5,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Konsultasi (Bisnis & Manajemen),12500000.0
+9673,Supervisor/Koordinator,2,0,0,0,1,1,1,1,0,0,0,0,Logistik/Rantai Pasokan,Pelayanan,Transportasi/Logistik,7800000.0
+28056,Supervisor/Koordinator,5,0,0,0,0,0,0,1,0,0,0,0,Properti/Real Estate,Bangunan/Konstruksi,Properti/Real Estate,7000000.0
+8556,Manajer/Asisten Manajer,3,1,0,0,0,0,0,0,0,0,0,0,Top Management / Manajemen Tingkat Atas,Sumber Daya Manusia/Personalia,Makanan & Minuman/Katering/Restoran,7200000.0
+12695,Pegawai (non-manajemen & non-supervisor),1,0,0,0,0,0,0,1,0,0,0,0,Teknik Lainnya,Teknik,Konsultasi (Bisnis & Manajemen),3600000.0
+29364,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,,0,0,0,0,0,0,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Asuransi,6000000.0
+24042,Pegawai (non-manajemen & non-supervisor),3,0,1,1,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manufaktur/Produksi,4350000.0
+20714,Supervisor/Koordinator,1,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Makanan & Minuman/Katering/Restoran,5250000.0
+17882,Supervisor/Koordinator,3,0,1,1,1,1,1,1,0,0,0,0,Digital Marketing,Penjualan / Pemasaran,Makanan & Minuman/Katering/Restoran,10680000.0
+10170,Manajer/Asisten Manajer,6,0,0,0,0,0,0,1,1,1,1,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,,15000000.0
+21576,Pegawai (non-manajemen & non-supervisor),4,0,0,0,1,1,1,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Komputer/Teknik Informatika (Perangkat Lunak),6000000.0
+20949,Pegawai (non-manajemen & non-supervisor),2,1,0,0,0,0,0,0,0,0,0,0,Mekanikal,Teknik,Konstruksi/Bangunan/Teknik,4800000.0
+11061,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Teknik Sipil/Konstruksi Bangunan,Bangunan/Konstruksi,Konstruksi/Bangunan/Teknik,5750000.0
+9842,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Retail/Merchandise,5040000.0
+21268,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,0,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4500000.0
+154,Supervisor/Koordinator,3,0,0,0,0,0,0,1,0,0,0,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",12000000.0
+14938,Manajer/Asisten Manajer,3,0,1,1,1,1,1,1,0,0,0,0,Makanan/Minuman/Pelayanan Restoran,Hotel/Restoran,Makanan & Minuman/Katering/Restoran,4500000.0
+25221,Supervisor/Koordinator,1,0,0,0,1,1,1,1,0,0,0,0,Keuangan / Investasi Perusahaan ,Akuntansi / Keuangan,,8400000.0
+25927,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Manajemen/Konsulting HR,5060000.0
+19920,Supervisor/Koordinator,1,0,0,0,0,0,0,1,0,0,0,0,E-commerce,Penjualan / Pemasaran,Telekomunikasi,6500000.0
+22519,Pegawai (non-manajemen & non-supervisor),4,0,0,0,1,1,1,1,1,1,1,0,IT-Perangkat Lunak,Komputer/Teknologi Informasi,Komputer/Teknik Informatika (Perangkat Lunak),12500000.0
+30181,Supervisor/Koordinator,3,0,0,0,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manufaktur/Produksi,6000000.0
+21883,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Umum & Grosir,4750000.0
+30951,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Teknik Industri,Teknik,Umum & Grosir,4750000.0
+16537,Pegawai (non-manajemen & non-supervisor),1,0,1,1,0,0,0,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Retail/Merchandise,3000000.0
+466,Manajer/Asisten Manajer,3,0,0,0,0,0,0,1,1,1,1,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Automobil/Mesin Tambahan Automotif/Kendaraan,7200000.0
+22354,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Sumber Daya Manusia / HR,Sumber Daya Manusia/Personalia,Kesehatan/Medis,6500000.0
+6110,Supervisor/Koordinator,1,0,0,0,0,0,0,1,0,0,0,0,Manufaktur,Manufaktur,Kesehatan/Medis,4850000.0
+11573,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,0,0,0,0,0,Teknik Elektro,Teknik,Manufaktur/Produksi,5750000.0
+7737,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Penjualan - Jasa Keuangan,Penjualan / Pemasaran,Asuransi,4000000.0
+5406,Pegawai (non-manajemen & non-supervisor),1,0,1,1,1,1,1,1,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,Perbankan/Pelayanan Keuangan,4500000.0
+4638,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,0,0,0,0,Penjualan - Korporasi,Penjualan / Pemasaran,Umum & Grosir,6000000.0
+964,Supervisor/Koordinator,2,1,0,0,0,0,0,0,0,0,0,0,Penjaminan Kualitas / QA,Manufaktur,Automobil/Mesin Tambahan Automotif/Kendaraan,8000000.0
+3156,Pegawai (non-manajemen & non-supervisor),,0,1,1,1,1,1,1,0,0,0,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,"Konsultasi (IT, Ilmu Pengetahuan, Teknis & Teknikal)",7500000.0
+16738,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Jurnalis/Editor,Lainnya,Industri Berat/Mesin/Peralatan,7500000.0
+773,Pegawai (non-manajemen & non-supervisor),3,0,0,0,1,1,1,1,1,1,1,0,Teknik Kimia,Teknik,Lingkungan/Kesehatan/Keamanan,5313000.0
+25114,Pegawai (non-manajemen & non-supervisor),1,0,0,0,1,1,1,1,0,0,0,0,Staf / Administrasi umum,Sumber Daya Manusia/Personalia,Retail/Merchandise,6300000.0
+9127,Pegawai (non-manajemen & non-supervisor),2,0,1,1,1,1,1,1,0,0,0,0,Teknik Elektro,Teknik,,5200000.0
+39,Pegawai (non-manajemen & non-supervisor),1,1,0,0,0,0,0,0,0,0,0,0,Hubungan Masyarakat,Seni/Media/Komunikasi,Konstruksi/Bangunan/Teknik,9500000.0
+11830,Lulusan baru/Pengalaman kerja kurang dari 1 tahun,1,0,1,1,1,1,1,1,0,0,0,0,Jurnalis/Editor,Lainnya,Konsultasi (Bisnis & Manajemen),9000000.0
+28380,Pegawai (non-manajemen & non-supervisor),2,0,0,0,0,0,0,1,0,0,0,0,Pemeliharaan,Manufaktur,Umum & Grosir,5000000.0
+9992,Pegawai (non-manajemen & non-supervisor),2,0,0,0,1,1,1,1,1,1,1,0,Akuntansi Umum / Pembiayaan,Akuntansi / Keuangan,Manajemen/Konsulting HR,5150000.0
+26597,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Sekretaris,Sumber Daya Manusia/Personalia,Manajemen/Konsulting HR,11500000.0
+10421,Pegawai (non-manajemen & non-supervisor),3,0,0,0,0,0,0,1,0,0,0,0,Pendidikan,Pendidikan/Pelatihan,Pendidikan,7500000.0
+26775,CEO/GM/Direktur/Manajer Senior,5,1,0,0,0,0,0,0,0,0,0,0,Penjualan Ritel,Penjualan / Pemasaran,,18000000.0

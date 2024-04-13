@@ -89,7 +89,7 @@ def optimizeDataset(dataset_file, output_file):
             del row[22]
             # del row[19]
             
-        UsedPerk =  {key: value for key, value in Perk.items() if value >= 100}
+        UsedPerk =  {key: value for key, value in Perk.items() if value >= 10}
         UsedLocation = {key: value for key, value in Location.items() if value >= 0}
 
         for row in data:
@@ -112,13 +112,7 @@ def optimizeDataset(dataset_file, output_file):
             #for i in range(3, 23):
             #    del row[2]
 
-            del row[1]
-            del row[14]
-            del row[16]
-            del row[16]
-            del row[16]
-
-            row[17] = float(row[17])
+            # row[22] = float(row[22])
             # row[17] = row[17] * 10000000
 
         # data = [
@@ -151,7 +145,7 @@ def optimizeDataset(dataset_file, output_file):
 
             writer.writerow([
                 'id', 
-                #'location', 
+                'location', 
                 'position', 
                 'experience', 
                    'e_none',
@@ -165,12 +159,12 @@ def optimizeDataset(dataset_file, output_file):
                    'e_gp',
                    'e_s2',
                    'e_s3',
-                #'type', 
+                'type', 
                 'gig1', 
                 'gig2',
-                #'perks', 
-                #'turn_time',
-                #'size', 
+                'perks', 
+                'turn_time',
+                'size', 
                 'industry', 
                 'salary'
             ])
@@ -179,8 +173,8 @@ def optimizeDataset(dataset_file, output_file):
 if __name__ == '__main__':
     print(os.path.abspath(os.path.join(os.getcwd(), '../../')))
 
-    dataset_file = '../../library/full_dataset.csv'
-    output_file = '../../library/optimized/fullest_dataset.csv'
+    dataset_file = '../../library/predict_dataset.csv'
+    output_file = '../../library/optimized/predict_dataset.csv'
 
     optimizeDataset(dataset_file, output_file)
     exit(0)
